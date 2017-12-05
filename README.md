@@ -21,14 +21,14 @@ https://www.python.org/download/releases/2.7/
 To run this program I have used PyCharm Community Edition 2016 IDE on Windows. However, you can run this program by using any other IDE or from command line.
 
 ## Running the Program
-You can find source code file in src folder. To run this program from windows command prompt, enter the following command:
+To run this program from windows command prompt, enter the following command:
 
 python checkout_system.py
 
 To run this program on IDE look for their instructions.
 
 ## Running The Tests:
-You can find unit testing script in the tests folder. To run these test cases on windows command prompt, enter the following command
+To run these test cases on windows command prompt, enter the following command
 
 Python test_checkout_system.py
 
