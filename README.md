@@ -32,7 +32,7 @@ python checkout_system.py
 
 To run this program on IDE look for their instructions.
 
-## Running The Tests:
+## Running Test cases:
 
 To run these test cases on windows command prompt, enter the following command
 
